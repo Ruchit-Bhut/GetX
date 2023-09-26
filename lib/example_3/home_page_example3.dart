@@ -19,7 +19,7 @@ class _HomePageExample3State extends State<HomePageExample3> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Example 3',
+          'Like And DisLike',
           style: TextStyle(
             fontWeight: FontWeight.bold,
             fontSize: 30,
