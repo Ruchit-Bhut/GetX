@@ -11,7 +11,6 @@ class HomePageExample1 extends StatefulWidget {
 
 class _HomePageExample1State extends State<HomePageExample1> {
   final CounterController controller = Get.put(CounterController());
-  int x = 0;
 
   @override
   Widget build(BuildContext context) {
